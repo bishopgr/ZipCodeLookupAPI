@@ -1,0 +1,12 @@
+C:\work\ZipCodeLookupAPI\ZipCodeLookupAPI\api\ZipCodeLookupAPI.exe
+C:\work\ZipCodeLookupAPI\ZipCodeLookupAPI\api\appsettings.Development.json
+C:\work\ZipCodeLookupAPI\ZipCodeLookupAPI\api\appsettings.json
+C:\work\ZipCodeLookupAPI\ZipCodeLookupAPI\api\ZipCodeLookupAPI.dll
+C:\work\ZipCodeLookupAPI\ZipCodeLookupAPI\api\ZipCodeLookupAPI.deps.json
+C:\work\ZipCodeLookupAPI\ZipCodeLookupAPI\api\ZipCodeLookupAPI.runtimeconfig.json
+C:\work\ZipCodeLookupAPI\ZipCodeLookupAPI\api\ZipCodeLookupAPI.pdb
+C:\work\ZipCodeLookupAPI\ZipCodeLookupAPI\api\System.Net.Http.Formatting.dll
+C:\work\ZipCodeLookupAPI\ZipCodeLookupAPI\api\System.Web.Http.dll
+C:\work\ZipCodeLookupAPI\ZipCodeLookupAPI\api\Newtonsoft.Json.dll
+C:\work\ZipCodeLookupAPI\ZipCodeLookupAPI\api\Newtonsoft.Json.Bson.dll
+C:\work\ZipCodeLookupAPI\ZipCodeLookupAPI\api\RestSharp.dll
