@@ -15,7 +15,6 @@ namespace ZipCodeLookupAPI.Tests
         {
 
             XmlDeserializer deserializer = new XmlDeserializer();
-
             var client = new RestClient("https://secure.shippingapis.com/shippingapi.dll?API=ZipCodeLookup&XML=<ZipCodeLookupRequest USERID =\"000\"><Address ID=\"0\"><Address1>911 Military St</Address1><City>Port Huron</City><State>MI</State></Address></ZipCodeLookupRequest>");
             var request = new RestRequest(Method.GET);
             IRestResponse response = client.Execute(request);

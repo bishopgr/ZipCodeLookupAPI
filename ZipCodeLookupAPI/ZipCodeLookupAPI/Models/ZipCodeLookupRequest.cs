@@ -5,7 +5,7 @@ namespace ZipCodeLookupAPI.Models
     public class ZipCodeLookupRequest
     {
         [XmlAttribute]
-        public string USERID { get; set; };
+        public string USERID { get; set; } = "00000";
 
         [XmlElement]
         public Address Address { get; set; }
